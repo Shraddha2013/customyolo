@@ -1,5 +1,5 @@
 classes= 11
-train  = datatrain_voc.txt
+train  = data/train_voc.txt
 valid  = data/test.txt
 names = data/voc.names
 backup = backup/
