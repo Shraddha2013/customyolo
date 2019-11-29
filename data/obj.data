@@ -1,6 +1,6 @@
-classes= 11
-train  = C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/train_voc.txt
-valid  = C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/test.txt
-names = C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/voc.names
+classes= 10
+train  = data/train.txt
+valid  = data/test.txt
+names = data/voc.names
 backup = backup/
 
