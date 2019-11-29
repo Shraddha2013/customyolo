@@ -1,0 +1,5 @@
+/C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/test/IMG-20191008-WA0029.jpg
+/C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/test/IMG-20191009-WA0026.jpg
+/C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/test/IMG-20191009-WA0036.jpg
+/C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/test/IMG-20191009-WA0037.jpg
+/C:/Users/Shraddha/Desktop/darknet-master/build/darknet/x64/data/test/IMG-20191010-WA0013.jpg
