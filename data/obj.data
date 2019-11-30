@@ -1,4 +1,4 @@
-classes= 10
+classes= 91
 train  = data/train.txt
 valid  = data/test.txt
 names = data/voc.names
