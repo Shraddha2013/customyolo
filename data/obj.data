@@ -1,6 +1,6 @@
-classes= 91
+classes= 31
 train  = data/train.txt
 valid  = data/test.txt
-names = data/voc.names
+names = data/obj.names
 backup = backup/
 
