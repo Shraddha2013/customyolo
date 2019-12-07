@@ -3,3 +3,8 @@
 /content/customyolo/build/darknet/x64/data/test/IMG-20191009-WA00361.jpg
 /content/customyolo/build/darknet/x64/data/test/IMG-20191009-WA0037.jpg
 /content/customyolo/build/darknet/x64/data/test/IMG-20191010-WA0013.jpg
+/content/customyolo/data/obj/IMG-20191008-WA0023.jpg
+/content/customyolo/data/obj/IMG-20191008-WA0024.jpg
+/content/customyolo/data/obj/IMG-20191008-WA0025.jpg
+/content/customyolo/data/obj/IMG-20191008-WA0026.jpg
+/content/customyolo/data/obj/IMG-20191008-WA0027.jpg
