@@ -1,6 +1,6 @@
 classes= 11
-train  = data/train.txt
-valid  = data/test.txt
-names = data/obj.names
-backup = backup/
+train  = /content/customyolo/customyolo/customyolo/build/darknet/x64/data/train.txt
+valid  = /content/customyolo/customyolo/customyolo/build/darknet/x64/data/test.txt
+names = /content/customyolo/customyolo/customyolo/build/darknet/x64/data/obj.names
+backup = /content/customyolo/customyolo/customyolo/build/darknet/x64/backup
 
