@@ -1,5 +1,5 @@
-data/test/IMG-20191008-WA0029.jpg
-data/test/IMG-20191009-WA0026.jpg
-data/test/IMG-20191009-WA00361.jpg
-data/test/IMG-20191009-WA0037.jpg
-data/test/IMG-20191010-WA0013.jpg
+/content/customyolo/build/darknet/x64/data/test/IMG-20191008-WA0029.jpg
+/content/customyolo/build/darknet/x64/data/test/IMG-20191009-WA0026.jpg
+/content/customyolo/build/darknet/x64/data/test/IMG-20191009-WA00361.jpg
+/content/customyolo/build/darknet/x64/data/test/IMG-20191009-WA0037.jpg
+/content/customyolo/build/darknet/x64/data/test/IMG-20191010-WA0013.jpg
