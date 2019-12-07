@@ -32,8 +32,3 @@
 /content/customyolo/data/obj/IMG-20191008-WA0019.jpg
 /content/customyolo/data/obj/IMG-20191008-WA0021.jpg
 /content/customyolo/data/obj/IMG-20191008-WA0022.jpg
-/content/customyolo/data/obj/IMG-20191008-WA0023.jpg
-/content/customyolo/data/obj/IMG-20191008-WA0024.jpg
-/content/customyolo/data/obj/IMG-20191008-WA0025.jpg
-/content/customyolo/data/obj/IMG-20191008-WA0026.jpg
-/content/customyolo/data/obj/IMG-20191008-WA0027.jpg
